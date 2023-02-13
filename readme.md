@@ -7,7 +7,7 @@
 
 - 🌱 I am currently studying **Computer Engineering at UNIVESP**
 
-- 💬 Ask me about **back-end development**
+- 💬 Ask me about **back-end development**💬 Ask me about **back-end development**💬 Ask me about **back-end development**
 
 - 📫 How to reach me **oandersonsouza.dev@gmail.com**
 
