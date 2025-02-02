@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/oanderson_souza" target="blank"><img src="https://img.shields.io/twitter/follow/oanderson_souza?logo=twitter&style=for-the-badge" alt="oanderson_souza" /></a> </p>
 
-- 🌱 I am currently studying **Computer Engineering at UNIVESP**
+- 🌱 Degree in **Computer Engineering at UNIVESP - Universidade Virtual do Estado de São Paulo**
 
 - 💬 Ask me about **back-end development**💬 Ask me about **back-end development**💬 Ask me about **back-end development**
 
